@@ -1,0 +1,23 @@
+.header {
+  height: 50px;
+  border-bottom: 1px solid pink;
+}
+
+.list {
+  display: flex;
+  list-style: none;
+}
+
+.listItem {
+  margin: 10px;
+}
+
+.link {
+  color: green;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.active {
+  color: red;
+}
